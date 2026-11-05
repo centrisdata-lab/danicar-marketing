@@ -1,3 +1,3 @@
-# Danicar · Plan de marketing
+# Danicar · Campaña WhatsApp
 
-Página sencilla con la tarifa de gestión de marketing digital y campañas en Meta para Mecánica Automotriz Danicar.
+Página sencilla con el precio de la campaña en Meta a WhatsApp para Mecánica Automotriz Danicar.
